@@ -1,5 +1,5 @@
 // The Miracle App - where hopes meet prayers
-const MIRACLE_PROBABILITY = 0.001;
+const MIRACLE_PROBABILITY = 0.1;
 
 function requestMiracle(wish) {
     const roll = Math.random();
