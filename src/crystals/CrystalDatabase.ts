@@ -6,7 +6,7 @@
 export type Chakra = 'root' | 'sacral' | 'solar_plexus' | 'heart' | 'throat' | 'third_eye' | 'crown'
 export type Element = 'earth' | 'water' | 'fire' | 'air' | 'spirit'
 export type ZodiacSign = 'aries' | 'taurus' | 'gemini' | 'cancer' | 'leo' | 'virgo' | 'libra' | 'scorpio' | 'sagittarius' | 'capricorn' | 'aquarius' | 'pisces'
-export type MoonPhase = 'new_moon' | 'waxing_crescent' | 'first_quarter' | 'waxing_gibbous' | 'full_moon' | 'waning_gibbous' | 'third_quarter' | 'waning_crescent'
+export type MoonPhase = 'new_mooooon' | 'waxing_crescent' | 'first_quarter' | 'waxing_gibbous' | 'full_moon' | 'waning_gibbous' | 'third_quarter' | 'waning_crescent'
 
 export interface Crystal {
   id: string
